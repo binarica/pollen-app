@@ -1,0 +1,12 @@
+{
+  "name": "PollenApp",
+  "displayName": "PollenApp",
+  "expo": {
+    "name": "PollenApp",
+    "slug": "PollenApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
